@@ -28,6 +28,7 @@ body {
     text-decoration: none;
     color: black;
     transition: all 200ms ease-in;
+    opacity: 0.7;
   }
   
   .nav-item a:hover {
@@ -38,7 +39,32 @@ body {
     margin-right: auto;
     margin-left: 2rem;
   }
+ 
+  /* Style all font awesome icons */
+.fa {
+    /*padding: 20px;*/
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+  }
   
+  /* Add a hover effect if you want */
+  .fa:hover {
+    opacity: 0.7;
+  }
+  
+  /* Set a specific color for each brand */
+  
+  /* Facebook */
+  .fa-facebook {
+    color: black;
+  }
+  
+  /* Twitter */
+  .fa-twitter {
+    color: black;
+  }
   
 
 .categories {
