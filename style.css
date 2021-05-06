@@ -192,7 +192,11 @@ footer {
     display: flex;
     justify-content: flex-end;
     align-items: center;
+    
   }
+
+
+
   
   h1 {
     margin-left: auto;
@@ -203,11 +207,10 @@ footer {
     color: #000000;
   }
   
-  /*div {
-    width: 500px;
+  div {
     margin: auto;
   }
-  */
+  
   
   .formStyle { 
     background-color: #ffffff;
